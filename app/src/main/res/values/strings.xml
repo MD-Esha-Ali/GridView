@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string-array name="contry_names">
+        <item>Bangladesh</item>
+        <item>Qutar</item>
+        <item>Argentina</item>
+        <item>Braizel</item>
+        <item>Barma</item>
+        <item>Bhutan</item>
+        <item>Chaina</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Koria</item>
+        <item>Pakistan</item>
+        <item>Napal</item>
+        <item>Malyashia</item>
+        <item>Thiland</item>
+        <item>Ingland</item>
+        <item>Kajakisthan</item>
+        <item>Rashia</item>
+        <item>Arab</item>
+        <item>Malala</item>
+        <item>Indonathia</item>
+        <item>Filipian</item>
+        <item>Jordan</item>
+        <item>Hongkong</item>
+    </string-array>
+</resources>
